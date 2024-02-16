@@ -1,0 +1,9 @@
+a{
+    display: inline;
+
+}
+
+.a1{
+    display: inline;
+    /* width: 30px;  this is not working */
+}

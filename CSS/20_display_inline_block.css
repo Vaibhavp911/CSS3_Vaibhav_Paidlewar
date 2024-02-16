@@ -1,0 +1,8 @@
+.a2,.a4,.a6{
+    display: inline-block;
+    width: 30%;
+    height: 60%;
+}
+.a3,.a5{
+    display: block;
+}
